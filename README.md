@@ -1,4 +1,4 @@
-# Intro to Python
+# Intro to Pythoon
 
 ## Programing language 
 
