@@ -39,8 +39,8 @@
 # print("3" + "5")
 
 #boolean
-# True
-# False
+True
+False
 # print(type(False))
 # 0 # falsy value
 # "" # falsy value
